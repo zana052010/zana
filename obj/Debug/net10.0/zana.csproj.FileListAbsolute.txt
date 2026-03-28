@@ -1,0 +1,15 @@
+C:\Users\User\zana\bin\Debug\net10.0\zana.exe
+C:\Users\User\zana\bin\Debug\net10.0\zana.deps.json
+C:\Users\User\zana\bin\Debug\net10.0\zana.runtimeconfig.json
+C:\Users\User\zana\bin\Debug\net10.0\zana.dll
+C:\Users\User\zana\bin\Debug\net10.0\zana.pdb
+C:\Users\User\zana\obj\Debug\net10.0\zana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\zana\obj\Debug\net10.0\zana.AssemblyInfoInputs.cache
+C:\Users\User\zana\obj\Debug\net10.0\zana.AssemblyInfo.cs
+C:\Users\User\zana\obj\Debug\net10.0\zana.csproj.CoreCompileInputs.cache
+C:\Users\User\zana\obj\Debug\net10.0\zana.sourcelink.json
+C:\Users\User\zana\obj\Debug\net10.0\zana.dll
+C:\Users\User\zana\obj\Debug\net10.0\refint\zana.dll
+C:\Users\User\zana\obj\Debug\net10.0\zana.pdb
+C:\Users\User\zana\obj\Debug\net10.0\zana.genruntimeconfig.cache
+C:\Users\User\zana\obj\Debug\net10.0\ref\zana.dll
